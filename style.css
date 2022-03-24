@@ -1,0 +1,32 @@
+body
+{
+
+    background-image: linear-gradient(to right, #CC95C0 0%, #DBD4B4  51%, #CC95C0  100%)
+    
+    
+}
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+.big_image{
+    width:100%;
+}
+#start
+{
+  
+    background-image: linear-gradient(to right, #fd746c 0%, #ff9068  51%, #fd746c  100%);
+   
+    font-size: 22px;
+    border-color: #CC95C0;
+}
+#status{
+    font-size: 22px;
+}
